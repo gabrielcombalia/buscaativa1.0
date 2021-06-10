@@ -1,0 +1,17 @@
+{
+    "name": "gabri/app1",
+    "description": "Busca ativa de alunos",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Gabri\\App1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Combalia",
+            "email": "gabrielcombalia@hotmail.com"
+        }
+    ],
+    "require": {}
+}
